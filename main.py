@@ -37,7 +37,3 @@ while True:
 	if results != None:
 		newEntry(results)
 
-'''
-https://firebasestorage.googleapis.com/v0/b/piklappdev.appspot.com/o/imagestmp%2F748.jpg?alt=media&token=020b26cc-b8cd-46a9-b358-72b61b24be67
-https://firebasestorage.googleapis.com/v0/b/piklappdev.appspot.com/o/imagestmp%2F627.jpg?alt=media&token=c2bcf2f8-6643-4ab3-9f4f-11f6fe8a6597
-'''
